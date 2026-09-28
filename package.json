@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/diffbyte",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Diff host/byte network string helpers for config audits.",
+  "bin": {
+    "diffbyte": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/diffbyte.git"
+  },
+  "homepage": "https://theworker02.github.io/diffbyte/",
+  "keywords": [
+    "diff",
+    "byte",
+    "net",
+    "cli",
+    "toolkit"
+  ]
+}
